@@ -1,6 +1,13 @@
 # Unity-SimpleFade
 <h2>Introductions</h2>
-Text
+Fade in at start:</br>
+Text</br>
+Background Type</br>
+Text</br>
+Background Image:</br>
+Text</br>
+Background Color:</br>
+Text</br>
 <img src="https://user-images.githubusercontent.com/75275468/151568655-0cb12f7a-5a78-4d34-9625-80111bd49491.png" alt="">
 
 Text2</br>
