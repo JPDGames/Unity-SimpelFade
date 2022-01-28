@@ -2,7 +2,7 @@
 <h2>Introductions</h2>
 Fade in at start:</br>
 Starts the fade in function at the start of the game.</br>
-Background Type</br>
+Background Type:</br>
 Defines which background should be used.</br>
 <img src="https://user-images.githubusercontent.com/75275468/151568655-0cb12f7a-5a78-4d34-9625-80111bd49491.png" alt="">
 
