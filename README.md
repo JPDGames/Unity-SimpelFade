@@ -1,11 +1,13 @@
 # Unity-SimpleFade
 <h2>Introductions</h2>
+<h3>Inspector:</h3>
 Fade in at start:</br>
 Starts the fade in function at the start of the game.</br></br>
 Background Type:</br>
 Defines which background should be used.</br></br>
 <img src="https://user-images.githubusercontent.com/75275468/151568655-0cb12f7a-5a78-4d34-9625-80111bd49491.png" alt="">
 
+<h3>Background Types:</h3>
 Default background:</br>
 Sets a black image as background.</br></br>
 Image:</br>
